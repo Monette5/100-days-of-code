@@ -1,4 +1,4 @@
-# 100 Jours de Code - Log
+# 100 Days of Code - Log
 
 ### Day 0: 14 April 2018
 
