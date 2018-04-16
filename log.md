@@ -6,6 +6,11 @@
 
 **Thoughts:** Working on the cat app: https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap
 
+### Day 1 15 pril 2018
+
+**Progress**: 8 hours so far
+
+**Thoughts:** Working on css, bootstrap and the individual projects. Hating codepen so going to try to contact 100 days to see if using another method is ok
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
