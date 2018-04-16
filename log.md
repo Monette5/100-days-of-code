@@ -6,7 +6,7 @@
 
 **Thoughts:** Working on the cat app: https://www.freecodecamp.org/challenges/ditch-custom-css-for-bootstrap
 
-### Day 1 15 pril 2018
+### Day 1 15 April 2018
 
 **Progress**: 8 hours so far
 
