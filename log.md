@@ -17,7 +17,7 @@
 **Progress**: Bored
 
 **Thoughts:** Working on basic JavaScript - bored...
-
+**Yay apparently I don't have to use code pen later on :) I can use surge or GitHub pages**
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
