@@ -12,6 +12,12 @@
 
 **Thoughts:** Working on css, bootstrap and the individual projects. Hating codepen so going to try to contact 100 days to see if using another method is ok
 
+### Day 2 16 April 2018
+
+**Progress**: Bored
+
+**Thoughts:** Working on basic JavaScript - bored...
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
