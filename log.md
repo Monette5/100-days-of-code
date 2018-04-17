@@ -18,6 +18,13 @@
 
 **Thoughts:** Working on basic JavaScript - bored...
 **Yay apparently I don't have to use code pen later on :) I can use surge or GitHub pages**
+
+### Day 3 17 April 2018
+
+**Progress**: Tired and had to work late so didn't manage as much as I would have liked to
+
+**Thoughts:** Working on basic JavaScript - bored...(same as yesterday)
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
