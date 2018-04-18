@@ -29,7 +29,7 @@
 
 **Progress**: Tired and had to work late (again)
 
-**Thoughts:** Working on funtions in JavaScript (more fun than yesterday)
+**Thoughts:** Working on functions in JavaScript (more fun than yesterday)
 
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
