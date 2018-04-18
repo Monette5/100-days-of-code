@@ -25,6 +25,12 @@
 
 **Thoughts:** Working on basic JavaScript - bored...(same as yesterday)
 
+### Day 4 18 April 2018
+
+**Progress**: Tired and had to work late (again)
+
+**Thoughts:** Working on funtions in JavaScript (more fun than yesterday)
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
