@@ -31,6 +31,12 @@
 
 **Thoughts:** Working on functions in JavaScript (more fun than yesterday)
 
+### Day 5 19 April 2018
+
+**Progress**: Tired and had to work late (again)
+
+**Thoughts:** Working on JavaScript switch, objects and conditions - nearly there.
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
