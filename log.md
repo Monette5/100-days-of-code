@@ -37,6 +37,12 @@
 
 **Thoughts:** Working on JavaScript switch, objects and conditions - nearly there.
 
+## Day 6 20 April 2018
+
+**Progress**: Working on algorithms
+
+**Thoughts:**I'm obviously rusty with algorithms which shows how much I was needing the practice - on the 8th one and my brain is starting to hurt!
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
