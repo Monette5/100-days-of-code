@@ -43,6 +43,12 @@
 
 **Thoughts:** I'm obviously rusty with algorithms which shows how much I was needing the practice - on the 8th one and my brain is starting to hurt!
 
+### Day 7 21 April 2018
+
+**Progress**: Working on algorithms
+
+**Thoughts:** Had to copy the answer - must work harder!
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -71,9 +77,6 @@
 </style>
 
 <div class="container-fluid">
-  <h2 class="red-text text-center">CatPhotoApp</h2>
-
-  <p>Click here for <a href="#">cat photos</a>.</p>
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
 
