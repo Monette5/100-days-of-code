@@ -49,6 +49,12 @@
 
 **Thoughts:** Had to copy the answer - must work harder!
 
+### Day 8 22 April 2018
+
+**Progress**: Working on algorithms
+
+**Thoughts:** Restarted the algorithm from yesterday - got it!
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
