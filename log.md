@@ -54,17 +54,7 @@
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera. ">
-  <div class="row">
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-primary">Like</button>
-    </div>
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-info">Info</button>
-    </div>
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-danger">Delete</button>
-    </div>
-  </div>
+
   
   <form action="/submit-cat-photo">
     <label><input type="radio" name="indoor-outdoor"> Indoor</label>
