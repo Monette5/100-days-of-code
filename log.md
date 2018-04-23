@@ -55,6 +55,12 @@
 
 **Thoughts:** Restarted the algorithm from yesterday - got it!
 
+### Day 9 23 April 2018
+
+**Progress**: Working on weather API
+
+**Thoughts:** Can't quite get the rain animation looking right - back to it tommmorrow
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
