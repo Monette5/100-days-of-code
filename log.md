@@ -61,6 +61,12 @@
 
 **Thoughts:** Can't quite get the rain animation looking right - back to it tommmorrow
 
+### Day 10 24 April 2018
+
+**Progress**: Working on Wikipedia search project
+
+**Thoughts:** Changed the pug html to standard html - much easier now
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
