@@ -67,6 +67,12 @@
 
 **Thoughts:** Changed the pug html to standard html - much easier now
 
+### Day 11 25 April 2018
+
+**Progress**: Working on twitter bot
+
+**Thoughts:** Instead of working with the lovely #freeCodeCamp tonight I was trying to make a twitter bot with node.js. A little error to sort tomorrow, but so far so good.
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
