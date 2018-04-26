@@ -73,6 +73,12 @@
 
 **Thoughts:** Instead of working with the lovely #freeCodeCamp tonight I was trying to make a twitter bot with node.js. A little error to sort tomorrow, but so far so good.
 
+### Day 12 26 April 2018
+
+**Progress**: Working on twitter bot
+
+**Thoughts:** It works but apparently there are vulnerabilities according to GitHub, hmmm
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
