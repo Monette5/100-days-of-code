@@ -79,6 +79,13 @@
 
 **Thoughts:** It works but apparently there are vulnerabilities according to GitHub, hmmm
 
+### Day 13 27 April 2018
+
+**Progress**: Worked on https://dash.generalassemb.ly/projects today. 
+
+**Thoughts:** Halfway through project 3 (a little bored... shhh)
+
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
