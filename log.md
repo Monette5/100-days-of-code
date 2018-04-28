@@ -85,6 +85,12 @@
 
 **Thoughts:** Halfway through project 3 (a little bored... shhh)
 
+### Day 14 28 April 2018
+
+**Progress**: Finished https://dash.generalassemb.ly/projects today and did freeCodeCamp Wikipedia project. 
+
+**Thoughts:** back to freeCodeCamp algorithms tommorrow
+
 
 <div class="container-fluid">
 
