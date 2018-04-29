@@ -91,6 +91,11 @@
 
 **Thoughts:** back to freeCodeCamp algorithms tommorrow
 
+### Day 15 29 April 2018
+
+**Progress**: Working on JavaScript intermediate algorithms
+
+**Thoughts:** Ouch!
 
 <div class="container-fluid">
 
