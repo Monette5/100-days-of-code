@@ -97,6 +97,12 @@
 
 **Thoughts:** Ouch!
 
+### Day 16 30 April 2018
+
+**Progress**: Working on JavaScript intermediate algorithms
+
+**Thoughts:** Ouch*2 (does that count?)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
