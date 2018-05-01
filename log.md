@@ -103,6 +103,11 @@
 
 **Thoughts:** Ouch*2 (does that count?)
 
+Day 17 01 May 2018
+Progress: Working on JavaScript intermediate algorithms
+
+Thoughts: Ouch*3 (does that count+1?)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
