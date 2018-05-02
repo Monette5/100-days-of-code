@@ -103,10 +103,15 @@
 
 **Thoughts:** Ouch*2 (does that count?)
 
-Day 17 01 May 2018
-Progress: Working on JavaScript intermediate algorithms
+### Day 17 01 May 2018
+**Progress**: Working on JavaScript intermediate algorithms
 
-Thoughts: Ouch*3 (does that count+1?)
+**Thoughts**: Ouch*3 (does that count+1?)
+
+### Day 18 02 May 2018
+**Progress**: Fixed my broken algorithm
+
+**Thoughts**: OOnly managed 5 minutes today - but better than no minutes...
 
 <div class="container-fluid">
 
