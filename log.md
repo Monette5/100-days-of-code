@@ -111,7 +111,12 @@
 ### Day 18 02 May 2018
 **Progress**: Fixed my broken algorithm
 
-**Thoughts**: OOnly managed 5 minutes today - but better than no minutes...
+**Thoughts**: Only managed 5 minutes today - but better than no minutes...
+
+### Day 19 03 May 2018
+**Progress**: Feeling lazy so lazy coding it is
+
+**Thoughts**: Decided against regEx and used a nifty switch instead
 
 <div class="container-fluid">
 
