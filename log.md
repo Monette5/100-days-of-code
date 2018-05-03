@@ -116,7 +116,7 @@
 ### Day 19 03 May 2018
 **Progress**: Feeling lazy so lazy coding it is
 
-**Thoughts**: Decided against regEx and used a nifty switch instead
+**Thoughts**: Decided against regExp and used a nifty switch instead
 
 <div class="container-fluid">
 
