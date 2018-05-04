@@ -118,6 +118,11 @@
 
 **Thoughts**: Decided against regExp and used a nifty switch instead
 
+### Day 20 04 May 2018
+**Progress**: Star Wars day today :)
+
+**Thoughts**:still working on algorithms and losing focus a little - might do some web develeopment tomorrow - a change is as good as a rest 
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
