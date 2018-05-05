@@ -123,6 +123,11 @@
 
 **Thoughts**:still working on algorithms and losing focus a little - might do some web develeopment tomorrow - a change is as good as a rest 
 
+### Day 21 05 May 2018
+**Progress**: Still algorithms
+
+**Thoughts**:Tired today - so just some more algorithms
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
