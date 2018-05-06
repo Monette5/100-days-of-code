@@ -128,6 +128,11 @@
 
 **Thoughts**:Tired today - so just some more algorithms
 
+Day 22 06 May 2018
+Progress: Still algorithms
+
+Thoughts:Two more intermediate algorithms to go :)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
