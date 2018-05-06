@@ -128,10 +128,10 @@
 
 **Thoughts**:Tired today - so just some more algorithms
 
-Day 22 06 May 2018
-Progress: Still algorithms
+### Day 22 06 May 2018
+**Progress**: Still algorithms
 
-Thoughts:Two more intermediate algorithms to go :)
+**Thoughts**:Two more intermediate algorithms to go :)
 
 <div class="container-fluid">
 
