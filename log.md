@@ -133,6 +133,11 @@
 
 **Thoughts**:Two more intermediate algorithms to go :)
 
+### Day 23 07 May 2018
+**Progress**: Intermediate algorithms
+
+**Thoughts**:Yay - intermediate algorithms done :)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
