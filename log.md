@@ -138,6 +138,11 @@
 
 **Thoughts**:Yay - intermediate algorithms done :)
 
+### Day 24 08 May 2018
+**Progress**: working late so only managed two advanced algorithms (not very well)
+
+**Thoughts**:JavaScript advanced algorithms - bit tired for this today - try again tomorrow
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
