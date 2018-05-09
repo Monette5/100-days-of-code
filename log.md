@@ -143,6 +143,11 @@
 
 **Thoughts**:JavaScript advanced algorithms - bit tired for this today - try again tomorrow
 
+### Day 25 09 May 2018
+**Progress**: working late so only managed 1 advanced algorithm 
+
+**Thoughts**:It doesn't like my forEach - will look with fresh eyes tommorrow
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
