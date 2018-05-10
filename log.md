@@ -148,6 +148,11 @@
 
 **Thoughts**:It doesn't like my forEach - will look with fresh eyes tommorrow
 
+### Day 26 10 May 2018
+**Progress**: Wow -  these algorithms are getting big! 
+
+**Thoughts**:Still toiling - hoping to finish algorithms by the end of the week
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
