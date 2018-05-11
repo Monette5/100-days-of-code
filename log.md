@@ -153,6 +153,12 @@
 
 **Thoughts**:Still toiling - hoping to finish algorithms by the end of the week
 
+### Day 27 11 May 2018
+**Progress**: Finally an algorithm I know! 
+
+**Thoughts**:Well that was kind of annoying - commented out bob.setFirstName("Haskell");
+then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn't....
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
