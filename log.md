@@ -164,6 +164,11 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Moved on from JavaScript algorithms with a couple to go back to later. Working on the calculator project at #freeCodeCamp 
 
+ ### Day 28 12 May 2018
+**Progress**: Working on the calculator project 
+
+**Thoughts**:Using code academy for inspiration - life is good :)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
