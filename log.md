@@ -164,10 +164,15 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Moved on from JavaScript algorithms with a couple to go back to later. Working on the calculator project at #freeCodeCamp 
 
- ### Day 28 12 May 2018
+ ### Day 28 13 May 2018
 **Progress**: Working on the calculator project 
 
-**Thoughts**:Using code academy for inspiration - life is good :)
+**Thoughts**:Using code academy for inspiration - life is good :-)
+
+ ### Day 2 14 May 2018
+**Progress**: Working on the calculator project 
+
+**Thoughts**:Tired and still managed 1 hour of calculator building at Code Academy, the challenge is a great motivator 
 
 <div class="container-fluid">
 
