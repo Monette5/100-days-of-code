@@ -169,10 +169,15 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Using code academy for inspiration - life is good :-)
 
- ### Day 2 14 May 2018
+ ### Day 29 14 May 2018
 **Progress**: Working on the calculator project 
 
 **Thoughts**:Tired and still managed 1 hour of calculator building at Code Academy, the challenge is a great motivator 
+
+### Day 30 15 May 2018
+**Progress**: Working on the calculator project 
+
+**Thoughts**:Finished the #codeAcademy calculator, on the the #freeCodeCamp calculator again tomorrow 
 
 <div class="container-fluid">
 
