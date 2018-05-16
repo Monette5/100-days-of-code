@@ -179,7 +179,7 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Finished the #codeAcademy calculator, on the the #freeCodeCamp calculator again tomorrow 
 
-### Day 30 15 May 2018
+### Day 31 16 May 2018
 **Progress**: Working on the advanced calculator project 
 
 **Thoughts**:Working on advanced calculator on #codeacademy and figuring out sqrt. Back to it tomorrow with a clear head :)
