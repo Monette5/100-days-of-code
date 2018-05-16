@@ -179,6 +179,11 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Finished the #codeAcademy calculator, on the the #freeCodeCamp calculator again tomorrow 
 
+### Day 30 15 May 2018
+**Progress**: Working on the advanced calculator project 
+
+**Thoughts**:Working on advanced calculator on #codeacademy and figuring out sqrt. Back to it tomorrow with a clear head :)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
