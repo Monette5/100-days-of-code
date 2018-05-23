@@ -192,7 +192,12 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 ### Day 33 18 May 2018
 **Progress**: Researching automated tools
 
-**Thoughts**: not coding much today - researching automated tools and looking into benefits of #codepen Back to coding properly tomorrow 
+**Thoughts**: not coding much today - researching automated tools and looking into benefits of #codepen Back to coding properly tomorrow
+
+### Day 34 23 May 2018
+**Progress**: A little bit of coding
+
+**Thoughts**:After (more than) a few days of no code I have been working on #freeCodeCamp calculator. I have to admit to boredom and I'm hoping to find inspiration soon.
 
 <div class="container-fluid">
 
