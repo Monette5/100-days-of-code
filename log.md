@@ -197,7 +197,22 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 ### Day 34 23 May 2018
 **Progress**: A little bit of coding
 
-**Thoughts**:After (more than) a few days of no code I have been working on #freeCodeCamp calculator. I have to admit to boredom and I'm hoping to find inspiration soon.
+**Thoughts**: After (more than) a few days of no code I have been working on #freeCodeCamp calculator. I have to admit to boredom and I'm hoping to find inspiration soon.
+
+### Day 35 24 June 2018
+**Progress**: I'm back!
+
+**Thoughts**: After (more than) a month of no code I have been working on a little challenge. Feeling more engaged.
+
+### Day 36 25 June 2018
+**Progress**: Challenges getting a little trickier.
+
+**Thoughts**: Working on CSS web layouts.
+
+### Day 37 26 June 2018
+**Progress**: Day 3 of my 5 day challenge.
+
+**Thoughts**: Wondering if CSS is the way to go with layouts. Gives good control but seems long-winded.
 
 <div class="container-fluid">
 
