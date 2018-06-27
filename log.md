@@ -210,9 +210,14 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 **Thoughts**: Working on CSS web layouts.
 
 ### Day 37 26 June 2018
-**Progress**: Day 3 of my 5 day challenge.
+**Progress**: Day 2 of my 5 day challenge.
 
 **Thoughts**: Wondering if CSS is the way to go with layouts. Gives good control but seems long-winded.
+
+### Day 38 27 June 2018
+**Progress**: Day 3 of my 5 day challenge.
+
+**Thoughts**: Some nice layouts using basic divs.
 
 <div class="container-fluid">
 
