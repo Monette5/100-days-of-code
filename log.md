@@ -224,6 +224,11 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**: I forgot how much fun the HTML/CSS combo was
 
+### Day 40 29 June 2018
+**Progress**: Day 5 of my 5 day challenge.
+
+**Thoughts**:Last day of my 5 day course today. Still having fun :)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
