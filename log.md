@@ -229,6 +229,12 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Last day of my 5 day course today. Still having fun :)
 
+### Day 41 17 July 2018
+**Progress**: Started work fixing my website.
+
+**Thoughts**:Working on my site.
+
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
