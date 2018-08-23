@@ -239,12 +239,12 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**:Working on my site.
 
-### Day 42 22 August 2018
+### Day 43 22 August 2018
 **Progress**: Created an angular app today
 
 **Thoughts**: Working on deplying to Heroku.
 
-### Day 41 17 July 2018
+### Day 44 23 August 2018
 **Progress**: Working on the Heroku deployment and my site.
 
 **Thoughts**: Deployment successful and my site looks much better.
