@@ -249,6 +249,26 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**: Deployment successful and my site looks much better.
 
+### Day 45 04 September 2018
+**Progress**: Working on the Heroku deployment again resulted in an angular site.
+
+**Thoughts**: Very basic, but it's a start.
+
+### Day 46 05 September 2018
+**Progress**: Learning about WordPress deployment via localhost
+
+**Thoughts**: Using xampp - haven't used it for a while but it's all coming back.
+
+### Day 47 06 September 2018
+**Progress**: Deployed it all successfully yesterday but annoyingly it wouldn't load today.
+
+**Thoughts**: Had to leave it for the day.
+
+### Day 48 07 September 2018
+**Progress**: Reinstalled xampp today with default config and all good again.
+
+**Thoughts**: Started work on Wix code.
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
