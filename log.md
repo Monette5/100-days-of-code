@@ -269,6 +269,21 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**: Started work on Wix code.
 
+### Day 49 08 September 2018
+**Progress**: Working on wix code
+
+**Thoughts**: A bit of an odd one, will scrap it tomorrow and start from scratch
+
+### Day 50 09 September 2018
+**Progress**: Started my page and dataset afresh
+
+**Thoughts**: I see what was wrong - getting the hang of it
+
+### Day 51 10 September 2018
+**Progress**: Worked out how to access https from localhost using 
+
+**Thoughts**: Phew - long day setting up my dev environment (again)
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
