@@ -284,6 +284,17 @@ then bob.getFirstName(); worked. I wonder why it saw it as an error when it wasn
 
 **Thoughts**: Phew - long day setting up my dev environment (again)
 
+### Day 52 11 September 2018
+**Progress**: Setting up github with elastic beanstalk. 
+
+**Thoughts**: Siily pip installs it in the wrong directory - long day of manual moving of folders once I found the issue (sigh)
+
+### Day 53 12 September 2018
+**Progress**: Working with Wix code add-ons. 
+
+**Thoughts**: Another learning leap in the course of my travels.
+
+
 <div class="container-fluid">
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
